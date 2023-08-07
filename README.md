@@ -1,2 +1,4 @@
 A recipe website that parses JSON file into a JavaScript object, sends this object back to the EJS file which then extracts data from it via dot operator and displays recipes as demanded by the user.
-![Screenshot 2023-08-06 222933](https://github.com/aryaa0502/Recipe-Website/assets/101689725/f15ddfb2-cae4-46f4-93d7-0a718560dd00)
+![Screenshot 2023-08-07 113709](https://github.com/aryaa0502/Recipe-Website/assets/101689725/f9636ce1-a888-4845-8288-e6c6d5dd50c4)
+![Screenshot 2023-08-07 113734](https://github.com/aryaa0502/Recipe-Website/assets/101689725/7188e792-a26d-464d-b269-defce85663e6)
+![Screenshot 2023-08-07 113749](https://github.com/aryaa0502/Recipe-Website/assets/101689725/0f344ea9-caf4-4bc9-ba6a-3f82a6683d90)
